@@ -3,7 +3,6 @@ I'm a fullstack developer and devops
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/LaineWilliam#7542/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-lain%C3%A9-807310149/) 
 
 # 💻 Tech Stack:
