@@ -50,6 +50,8 @@ I'm a fullstack developer and devops
   </a> 
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
+  <a href="https://dotnetfiddle.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
+  </a>
   </br>
   </p>
   
