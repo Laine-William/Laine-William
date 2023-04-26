@@ -93,10 +93,11 @@ I'm a fullstack developer and devops
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="xd" width="40" height="40"/> 
       </a> 
       </p>
- # OS : 
+      
+# OS : 
 <p align="left">  
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-  </p>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Laine-William&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
