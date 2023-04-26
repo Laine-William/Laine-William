@@ -68,7 +68,7 @@ I'm a fullstack developer and devops
 
   # Mobile app : 
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" alt="android" width="40" height="40"/> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" alt="android" width="60" height="60"/> 
   </a> 
  </p>
   
