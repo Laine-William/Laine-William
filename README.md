@@ -100,7 +100,7 @@ I'm a fullstack developer and devops
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Laine-William&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![Laine-William GitHub stats](https://github-readme-stats.vercel.app/api?username=Laine-William)](https://github.com/Laine-William/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Laine-William&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laine-William&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
